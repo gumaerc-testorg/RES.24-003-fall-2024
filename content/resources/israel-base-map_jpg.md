@@ -10,10 +10,10 @@ image_metadata:
     disagreements over land use, sovereignty, and civil and human rights have been
     exacerbated by semantic disagreements over the meanings of words like *Intifadeh,
     occupation, apartheid, indigenous, resistance, antisemitism,* and *genocide.*
-    (Map by JRC, DG, ECHO, and EC, courtesy of user [Zoozaz1](https://commons.wikimedia.org/w/index.php?curid=105118032)
-    at Wikimedia Commons. License: CC BY.)'
-  credit: 'Map by JRC, DG, ECHO, and EC, courtesy of user [Zoozaz1](https://commons.wikimedia.org/w/index.php?curid=105118032)
-    at Wikimedia Commons. License: CC BY.'
+    (Map by JRC, DG, ECHO, and EC, courtesy of user {{% resource_link "8e3186ac-ff02-4761-8d3c-3d353034d3f5"
+    "Zoozaz1" %}} at Wikimedia Commons. License: CC BY.)'
+  credit: 'Map by JRC, DG, ECHO, and EC, courtesy of user {{% resource_link "8e3186ac-ff02-4761-8d3c-3d353034d3f5"
+    "Zoozaz1" %}} at Wikimedia Commons. License: CC BY.'
   image-alt: A map of Palestine including the central part of Israel, Gaza, and the
     West Bank
 learning_resource_types: []
